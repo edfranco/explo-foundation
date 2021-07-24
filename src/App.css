@@ -1,0 +1,25 @@
+nav, nav a{
+  color: white !important;
+}
+
+.explo-logo{
+  height: 50px;
+}
+
+.nav{
+  background-color: black;
+  padding: 1em;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.nav ul {
+  display: flex;
+}
+
+.nav ul li {
+  list-style: none;
+  padding-right: 1em;
+}
+
