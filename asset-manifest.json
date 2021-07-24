@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/explo-foundation/static/css/main.edd3468c.chunk.css",
+    "main.js": "/explo-foundation/static/js/main.34e4cf77.chunk.js",
+    "main.js.map": "/explo-foundation/static/js/main.34e4cf77.chunk.js.map",
+    "runtime-main.js": "/explo-foundation/static/js/runtime-main.078bfe03.js",
+    "runtime-main.js.map": "/explo-foundation/static/js/runtime-main.078bfe03.js.map",
+    "static/css/2.f7993926.chunk.css": "/explo-foundation/static/css/2.f7993926.chunk.css",
+    "static/js/2.c5562478.chunk.js": "/explo-foundation/static/js/2.c5562478.chunk.js",
+    "static/js/2.c5562478.chunk.js.map": "/explo-foundation/static/js/2.c5562478.chunk.js.map",
+    "static/js/3.217aba48.chunk.js": "/explo-foundation/static/js/3.217aba48.chunk.js",
+    "static/js/3.217aba48.chunk.js.map": "/explo-foundation/static/js/3.217aba48.chunk.js.map",
+    "index.html": "/explo-foundation/index.html",
+    "static/css/2.f7993926.chunk.css.map": "/explo-foundation/static/css/2.f7993926.chunk.css.map",
+    "static/css/main.edd3468c.chunk.css.map": "/explo-foundation/static/css/main.edd3468c.chunk.css.map",
+    "static/js/2.c5562478.chunk.js.LICENSE.txt": "/explo-foundation/static/js/2.c5562478.chunk.js.LICENSE.txt",
+    "static/media/explo-logo-white.974ca580.svg": "/explo-foundation/static/media/explo-logo-white.974ca580.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.078bfe03.js",
+    "static/css/2.f7993926.chunk.css",
+    "static/js/2.c5562478.chunk.js",
+    "static/css/main.edd3468c.chunk.css",
+    "static/js/main.34e4cf77.chunk.js"
+  ]
+}
