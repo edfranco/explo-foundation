@@ -1,26 +1,27 @@
 {
   "files": {
-    "main.css": "/explo-foundation/static/css/main.edd3468c.chunk.css",
-    "main.js": "/explo-foundation/static/js/main.34e4cf77.chunk.js",
-    "main.js.map": "/explo-foundation/static/js/main.34e4cf77.chunk.js.map",
-    "runtime-main.js": "/explo-foundation/static/js/runtime-main.078bfe03.js",
-    "runtime-main.js.map": "/explo-foundation/static/js/runtime-main.078bfe03.js.map",
+    "main.css": "/explo-foundation/static/css/main.cff8d2fe.chunk.css",
+    "main.js": "/explo-foundation/static/js/main.280d4757.chunk.js",
+    "main.js.map": "/explo-foundation/static/js/main.280d4757.chunk.js.map",
+    "runtime-main.js": "/explo-foundation/static/js/runtime-main.c04e4983.js",
+    "runtime-main.js.map": "/explo-foundation/static/js/runtime-main.c04e4983.js.map",
     "static/css/2.f7993926.chunk.css": "/explo-foundation/static/css/2.f7993926.chunk.css",
-    "static/js/2.c5562478.chunk.js": "/explo-foundation/static/js/2.c5562478.chunk.js",
-    "static/js/2.c5562478.chunk.js.map": "/explo-foundation/static/js/2.c5562478.chunk.js.map",
-    "static/js/3.217aba48.chunk.js": "/explo-foundation/static/js/3.217aba48.chunk.js",
-    "static/js/3.217aba48.chunk.js.map": "/explo-foundation/static/js/3.217aba48.chunk.js.map",
+    "static/js/2.571635e6.chunk.js": "/explo-foundation/static/js/2.571635e6.chunk.js",
+    "static/js/2.571635e6.chunk.js.map": "/explo-foundation/static/js/2.571635e6.chunk.js.map",
+    "static/js/3.25f3fdca.chunk.js": "/explo-foundation/static/js/3.25f3fdca.chunk.js",
+    "static/js/3.25f3fdca.chunk.js.map": "/explo-foundation/static/js/3.25f3fdca.chunk.js.map",
     "index.html": "/explo-foundation/index.html",
     "static/css/2.f7993926.chunk.css.map": "/explo-foundation/static/css/2.f7993926.chunk.css.map",
-    "static/css/main.edd3468c.chunk.css.map": "/explo-foundation/static/css/main.edd3468c.chunk.css.map",
-    "static/js/2.c5562478.chunk.js.LICENSE.txt": "/explo-foundation/static/js/2.c5562478.chunk.js.LICENSE.txt",
-    "static/media/explo-logo-white.974ca580.svg": "/explo-foundation/static/media/explo-logo-white.974ca580.svg"
+    "static/css/main.cff8d2fe.chunk.css.map": "/explo-foundation/static/css/main.cff8d2fe.chunk.css.map",
+    "static/js/2.571635e6.chunk.js.LICENSE.txt": "/explo-foundation/static/js/2.571635e6.chunk.js.LICENSE.txt",
+    "static/media/explo-logo-white.974ca580.svg": "/explo-foundation/static/media/explo-logo-white.974ca580.svg",
+    "static/media/foundation-banner.c27606dc.jpg": "/explo-foundation/static/media/foundation-banner.c27606dc.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.078bfe03.js",
+    "static/js/runtime-main.c04e4983.js",
     "static/css/2.f7993926.chunk.css",
-    "static/js/2.c5562478.chunk.js",
-    "static/css/main.edd3468c.chunk.css",
-    "static/js/main.34e4cf77.chunk.js"
+    "static/js/2.571635e6.chunk.js",
+    "static/css/main.cff8d2fe.chunk.css",
+    "static/js/main.280d4757.chunk.js"
   ]
 }
