@@ -1,25 +1,53 @@
-nav, nav a{
-  color: white !important;
-}
-
-.explo-logo{
-  height: 50px;
-}
-
-.nav{
-  background-color: black;
+.content{
   padding: 1em;
+}
+.callout{
+  margin: 0 !important;
+}
+
+.explo-button{
+  background-color: black !important;
+}
+
+/* aside css */
+.visit-content, .container{
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+}
+
+.visit-aside, .aside{
   display: flex;
-  flex-direction: row;
-  justify-content: space-between;
+  flex-direction: column;
+  justify-content: flex-start;
 }
 
-.nav ul {
+.aside-links{
   display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
 }
 
-.nav ul li {
-  list-style: none;
-  padding-right: 1em;
+.aside-links a{
+  padding-bottom: 0.3em;
 }
 
+
+/* pods css */
+
+.pods{
+  width: 50vw;
+  display: flex;
+  flex-wrap: wrap;
+  /* justify-content: center;   */
+}
+
+.pod{
+  border: 1px solid black;
+  width: 15vw;
+  margin: 0.5em;
+  /* padding: 1em; */
+}
+
+.pod img{
+  width: 15vw;
+}

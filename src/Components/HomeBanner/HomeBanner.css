@@ -1,0 +1,29 @@
+.home-banner-container{
+    position: relative;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.home-banner{
+    width: 100%;
+  }
+
+.banner-overlay{
+    background-color: black;
+    color: white;
+    width: 27vw;
+    opacity: 81%;
+    position: absolute;
+    top:0;
+    bottom: 0;
+    right: 0;
+    padding:1em;
+}
+
+.banner-overlay strong{
+    text-decoration: underline;
+}
+
+.banner-overlay strong, .banner-overlay p{
+    opacity: 99%;
+}

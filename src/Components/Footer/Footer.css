@@ -1,0 +1,53 @@
+.footer{
+    width: 100vw;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    padding: 2em 1em 3em 1em;
+    text-align: center;
+    color: #B1AFAF;
+}
+
+.footer-logo{
+    max-height: 150px;
+    margin: 1.4rem 0 3rem 0;
+}
+
+.footer-links {
+    display: flex;
+    margin-top: 2.5rem;
+}
+
+.footer-links div{
+    margin-right: 1em;
+    width: 8em;
+}
+
+.footer-links div .button{
+    border: 1px solid #706E6E;
+    background-color: black !important;
+    padding: 0.5rem;
+    width: 85%;
+    text-align: center;
+    display: inline-block;
+    text-decoration: none !important;
+}
+
+.address p{
+    text-align: start;
+}
+
+.left-links-container{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.footer-menu{
+    display: flex;
+    flex-direction: column;
+}
+
+.footer-menu li{
+    list-style: none;
+    text-align: start;
+}

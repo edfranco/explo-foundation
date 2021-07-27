@@ -1,0 +1,9 @@
+.home-page .left-grid{
+    border-right: 1px solid black;
+    padding-right: 1em;
+}
+
+.grid-2{
+    display: flex;
+    justify-content: space-between;
+}
